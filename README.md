@@ -1,3 +1,3 @@
-# ML_CelciusConverter
+# ML_CelsiusConverter
 
-Celcius to Fahrenheit Converter
+Celsius to Fahrenheit Converter
